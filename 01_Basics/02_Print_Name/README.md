@@ -8,7 +8,7 @@ To understand how to use the `printf()` function to display text in C programmin
 
 ## 💻 Output
 ```text
-My name is Aarzoou
+My name is Anju
 ```
 
 ## 📚 Concepts Learned
