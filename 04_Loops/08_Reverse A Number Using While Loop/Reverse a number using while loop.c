@@ -1,0 +1,17 @@
+
+#include <stdio.h>
+
+int main() {
+    int num = 12345;
+    int reverse = 0;
+
+    while (num > 0) {
+        int digit = num % 10;
+        reverse = reverse * 10 + digit;
+        num = num / 10;
+    }
+
+    printf("Reverse Number = %d", reverse);
+
+    return 0;
+}
