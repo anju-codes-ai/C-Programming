@@ -1,5 +1,5 @@
 
-# 02 - Store and Display Union Data in C
+# 06 - Store and Display Union Data in C
 
 ## 📌 Description
 This program demonstrates how to store and display data using a union in C.
