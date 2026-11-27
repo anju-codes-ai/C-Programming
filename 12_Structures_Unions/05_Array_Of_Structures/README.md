@@ -1,5 +1,5 @@
 
-# 03 - Array of Structures in C
+# 05 - Array of Structures in C
 
 ## 📌 Description
 This program demonstrates the concept of **Array of Structures in C**.
