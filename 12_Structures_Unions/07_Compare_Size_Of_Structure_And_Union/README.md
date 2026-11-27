@@ -1,5 +1,5 @@
 
-# 03 - Compare Size of Structure and Union in C
+# 07 - Compare Size of Structure and Union in C
 
 ## 📌 Description
 This program demonstrates the difference between the memory sizes of a structure and a union in C.
