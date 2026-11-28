@@ -1,0 +1,72 @@
+# Employee Management System in C
+
+## Project Overview
+The Employee Management System is a menu-driven console application developed using the C programming language.
+
+It allows users to manage employee information, including employee IDs, names, departments, and salaries.
+
+The project demonstrates how structures and file handling can be used to create a basic record-management application.
+
+## Features
+- Add new employee records
+- Display all employees
+- Search employees by ID
+- Update employee information
+- Delete employee records
+- Calculate annual salary
+- Store records using binary file handling
+
+## Technologies Used
+- Programming Language: C
+- Compiler: GCC
+- Storage: Binary File
+
+## Project Structure
+```text
+08_Employee_Management_System/
+│
+├── main.c
+└── README.md
+```
+
+## How to Compile and Run
+
+Compile:
+
+```bash
+gcc main.c -o employee
+```
+
+Run on Windows:
+
+```bash
+employee.exe
+```
+
+Run on Linux/macOS:
+
+```bash
+./employee
+```
+
+## C Concepts Used
+1. Structures
+2. Functions
+3. Pointers and file operations
+4. Switch statements
+5. Loops
+6. Binary file handling
+7. Searching and updating records
+
+## Learning Outcomes
+This project improves understanding of structured data, file operations, record management, and modular programming in C.
+
+## Future Improvements
+- Prevent duplicate employee IDs
+- Add employee attendance management
+- Generate salary reports
+- Add department-wise filtering
+- Improve input validation
+
+## Disclaimer
+This is an educational project designed to practise C programming concepts. It is not a production-ready HR management system.
